@@ -1,0 +1,5 @@
+export_path: C:\\dev\\projects\\video\\videofilter\\export\\mobile
+import_path: C:\\dev\\projects\\video\\videofilter\\import\\007
+file_extension: .MP4
+ffmpeg_path: C:\\ffmpeg\\bin\\ffmpeg
+video_codec: libx265
